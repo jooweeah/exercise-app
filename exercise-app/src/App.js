@@ -4,9 +4,9 @@ import DurationExercise from './components/DurationExercise';
 import RepetitionExercise from './components/RepetitionExercise';
 
 const exercises = [
-  { name: 'Push Ups', type: 'duration' },
-  { name: 'Running', type: 'repetition' },
-  { name: 'Plank', type: 'repetition' },
+  { name: 'Push Ups', type: 'repetition' },
+  { name: 'Running', type: 'duration' },
+  { name: 'Plank', type: 'duration' },
 ];
 
 class App extends Component {
